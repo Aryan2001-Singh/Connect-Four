@@ -8,11 +8,11 @@ mvc folder contains normal Player vs Player version of Connect 4 game made using
 ## Installation
 1. Download or clone this repo to your local device using following command 
 ```
-git clone https://mygit.th-deg.de/22s-ainb/dhruv-patel-connect4
+git clone 
 ```
 2. Now change directory to cloned folder using cd command
 ```
-cd dhruv-patel-connect4
+cd -connect4
 ```
 3. Install required python libraries from [requirements.txt](requirements.txt) file
 ```
